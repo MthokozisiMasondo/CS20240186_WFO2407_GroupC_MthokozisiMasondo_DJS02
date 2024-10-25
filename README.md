@@ -67,7 +67,7 @@ The provided HTML and JavaScript setup a basic form for inputting two numbers (d
 - WHEN ‘YOLO’ is entered into the first input
 - AND ‘+++’ is entered into the second input
 - THEN the entire screen should be replaced with “Something critical went wrong. Please reload the page
-- AND an error should be logged in the browser console that shows the call stack.
+- AND an error should be logged in the browser console that shows the call stack
 
 #### Task Instructions
 
